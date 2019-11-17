@@ -11,7 +11,10 @@ const Footer = () => {
   return (
     <StyledFooter>
       <div style={{ textAlign: "center", position: "relative", top: "26px" }}>
-        <Cta href="#" title="Download Break o'clock">
+        <Cta
+          href="http://thomasguibert.fr/download/break-oclock.zip"
+          title="Download Break o'clock"
+        >
           <>
             <span style={{ paddingRight: "20px" }}>Download</span>
             <Logo color={"white"} />

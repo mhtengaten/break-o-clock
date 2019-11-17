@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.452f81f3.chunk.css",
-    "main.js": "/static/js/main.ebaa16f4.chunk.js",
-    "main.js.map": "/static/js/main.ebaa16f4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f96d430c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f96d430c.js.map",
-    "static/js/2.65074dc4.chunk.js": "/static/js/2.65074dc4.chunk.js",
-    "static/js/2.65074dc4.chunk.js.map": "/static/js/2.65074dc4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8ef76f51fc8560995a82160e14560903.js": "/precache-manifest.8ef76f51fc8560995a82160e14560903.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.452f81f3.chunk.css.map": "/static/css/main.452f81f3.chunk.css.map",
-    "static/media/db_anim.gif": "/static/media/db_anim.5c818283.gif",
-    "static/media/freelancer.svg": "/static/media/freelancer.ef8e1ddb.svg",
-    "static/media/real-time.png": "/static/media/real-time.4349b4d3.png"
+    "main.css": "/react-simple-pull-to-refresh/static/css/main.452f81f3.chunk.css",
+    "main.js": "/react-simple-pull-to-refresh/static/js/main.c2d06e92.chunk.js",
+    "main.js.map": "/react-simple-pull-to-refresh/static/js/main.c2d06e92.chunk.js.map",
+    "runtime-main.js": "/react-simple-pull-to-refresh/static/js/runtime-main.2dc2d496.js",
+    "runtime-main.js.map": "/react-simple-pull-to-refresh/static/js/runtime-main.2dc2d496.js.map",
+    "static/js/2.d64d19be.chunk.js": "/react-simple-pull-to-refresh/static/js/2.d64d19be.chunk.js",
+    "static/js/2.d64d19be.chunk.js.map": "/react-simple-pull-to-refresh/static/js/2.d64d19be.chunk.js.map",
+    "index.html": "/react-simple-pull-to-refresh/index.html",
+    "precache-manifest.c0eaf20bc3be46f0689b273c3c30fed6.js": "/react-simple-pull-to-refresh/precache-manifest.c0eaf20bc3be46f0689b273c3c30fed6.js",
+    "service-worker.js": "/react-simple-pull-to-refresh/service-worker.js",
+    "static/css/main.452f81f3.chunk.css.map": "/react-simple-pull-to-refresh/static/css/main.452f81f3.chunk.css.map",
+    "static/media/db_anim.gif": "/react-simple-pull-to-refresh/static/media/db_anim.5c818283.gif",
+    "static/media/freelancer.svg": "/react-simple-pull-to-refresh/static/media/freelancer.ef8e1ddb.svg",
+    "static/media/real-time.png": "/react-simple-pull-to-refresh/static/media/real-time.4349b4d3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f96d430c.js",
-    "static/js/2.65074dc4.chunk.js",
+    "static/js/runtime-main.2dc2d496.js",
+    "static/js/2.d64d19be.chunk.js",
     "static/css/main.452f81f3.chunk.css",
-    "static/js/main.ebaa16f4.chunk.js"
+    "static/js/main.c2d06e92.chunk.js"
   ]
 }

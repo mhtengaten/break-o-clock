@@ -22,7 +22,10 @@ const CatchyHeader = () => {
         <h1>5 minutes break reminding tool.</h1>
         <br />
         <br />
-        <Cta href="#" title="Download Break o'clock">
+        <Cta
+          href="http://thomasguibert.fr/download/break-oclock.zip"
+          title="Download Break o'clock"
+        >
           <>
             <span style={{ paddingRight: "20px" }}>Download</span>
             <Logo color={"white"} />
