@@ -46,7 +46,7 @@ const CatchyHeader = () => {
                   <span className="numbers">
                     <span>1</span>
                   </span>{" "}
-                  Start the app. A timer automatically starts.
+                  Launch the app. A timer automatically starts.
                 </li>
                 <li>
                   <span className="numbers">2</span>A discret visual alarm will
