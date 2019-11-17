@@ -36,7 +36,10 @@ const Footer = () => {
         </h3>
         <br />
         <p>
-          <a href="" title="Thomas Guibert LinkedIn">
+          <a
+            href="https://github.com/thmsgbrt/break-o-clock"
+            title="Thomas Guibert LinkedIn"
+          >
             <FontAwesomeIcon icon={faGithub} style={{ marginRight: "7px" }} />
             Source Code
           </a>
