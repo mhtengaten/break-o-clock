@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-simple-pull-to-refresh/static/css/main.452f81f3.chunk.css",
-    "main.js": "/react-simple-pull-to-refresh/static/js/main.c2d06e92.chunk.js",
-    "main.js.map": "/react-simple-pull-to-refresh/static/js/main.c2d06e92.chunk.js.map",
-    "runtime-main.js": "/react-simple-pull-to-refresh/static/js/runtime-main.2dc2d496.js",
-    "runtime-main.js.map": "/react-simple-pull-to-refresh/static/js/runtime-main.2dc2d496.js.map",
-    "static/js/2.d64d19be.chunk.js": "/react-simple-pull-to-refresh/static/js/2.d64d19be.chunk.js",
-    "static/js/2.d64d19be.chunk.js.map": "/react-simple-pull-to-refresh/static/js/2.d64d19be.chunk.js.map",
-    "index.html": "/react-simple-pull-to-refresh/index.html",
-    "precache-manifest.c0eaf20bc3be46f0689b273c3c30fed6.js": "/react-simple-pull-to-refresh/precache-manifest.c0eaf20bc3be46f0689b273c3c30fed6.js",
-    "service-worker.js": "/react-simple-pull-to-refresh/service-worker.js",
-    "static/css/main.452f81f3.chunk.css.map": "/react-simple-pull-to-refresh/static/css/main.452f81f3.chunk.css.map",
-    "static/media/db_anim.gif": "/react-simple-pull-to-refresh/static/media/db_anim.5c818283.gif",
-    "static/media/freelancer.svg": "/react-simple-pull-to-refresh/static/media/freelancer.ef8e1ddb.svg",
-    "static/media/real-time.png": "/react-simple-pull-to-refresh/static/media/real-time.4349b4d3.png"
+    "main.css": "/break-o-clock/static/css/main.452f81f3.chunk.css",
+    "main.js": "/break-o-clock/static/js/main.d373f4c2.chunk.js",
+    "main.js.map": "/break-o-clock/static/js/main.d373f4c2.chunk.js.map",
+    "runtime-main.js": "/break-o-clock/static/js/runtime-main.0bedbb68.js",
+    "runtime-main.js.map": "/break-o-clock/static/js/runtime-main.0bedbb68.js.map",
+    "static/js/2.b2800d89.chunk.js": "/break-o-clock/static/js/2.b2800d89.chunk.js",
+    "static/js/2.b2800d89.chunk.js.map": "/break-o-clock/static/js/2.b2800d89.chunk.js.map",
+    "index.html": "/break-o-clock/index.html",
+    "precache-manifest.614ca49d4a5085f69153caa14a39aab4.js": "/break-o-clock/precache-manifest.614ca49d4a5085f69153caa14a39aab4.js",
+    "service-worker.js": "/break-o-clock/service-worker.js",
+    "static/css/main.452f81f3.chunk.css.map": "/break-o-clock/static/css/main.452f81f3.chunk.css.map",
+    "static/media/db_anim.gif": "/break-o-clock/static/media/db_anim.5c818283.gif",
+    "static/media/freelancer.svg": "/break-o-clock/static/media/freelancer.ef8e1ddb.svg",
+    "static/media/real-time.png": "/break-o-clock/static/media/real-time.4349b4d3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2dc2d496.js",
-    "static/js/2.d64d19be.chunk.js",
+    "static/js/runtime-main.0bedbb68.js",
+    "static/js/2.b2800d89.chunk.js",
     "static/css/main.452f81f3.chunk.css",
-    "static/js/main.c2d06e92.chunk.js"
+    "static/js/main.d373f4c2.chunk.js"
   ]
 }
