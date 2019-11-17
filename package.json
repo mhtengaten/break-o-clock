@@ -1,0 +1,23 @@
+{
+  "name": "break-o-clock",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build-docs": "ncp ./docs-src/build ./docs",
+    "build-app": "ncp ./app/out/make/zip/darwin/x64 ./build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thmsgbrt/break-o-clock.git"
+  },
+  "author": "Guibert Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thmsgbrt/break-o-clock/issues"
+  },
+  "homepage": "https://github.com/thmsgbrt/break-o-clock#readme",
+  "dependencies": {
+    "ncp": "^2.0.0"
+  }
+}
