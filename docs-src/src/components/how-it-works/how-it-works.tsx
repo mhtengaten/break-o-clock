@@ -37,7 +37,7 @@ const HowItWorks = () => {
             </li>
             <li>
               <FontAwesomeIcon icon={faCheck} style={{ marginRight: "10px" }} />{" "}
-              Reduce eyes strain
+              Reduce eye strain
             </li>
             <li>
               <FontAwesomeIcon icon={faCheck} style={{ marginRight: "10px" }} />{" "}

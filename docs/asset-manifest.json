@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/break-o-clock/static/css/main.452f81f3.chunk.css",
-    "main.js": "/break-o-clock/static/js/main.d373f4c2.chunk.js",
-    "main.js.map": "/break-o-clock/static/js/main.d373f4c2.chunk.js.map",
+    "main.js": "/break-o-clock/static/js/main.4a040711.chunk.js",
+    "main.js.map": "/break-o-clock/static/js/main.4a040711.chunk.js.map",
     "runtime-main.js": "/break-o-clock/static/js/runtime-main.0bedbb68.js",
     "runtime-main.js.map": "/break-o-clock/static/js/runtime-main.0bedbb68.js.map",
     "static/js/2.b2800d89.chunk.js": "/break-o-clock/static/js/2.b2800d89.chunk.js",
     "static/js/2.b2800d89.chunk.js.map": "/break-o-clock/static/js/2.b2800d89.chunk.js.map",
     "index.html": "/break-o-clock/index.html",
-    "precache-manifest.614ca49d4a5085f69153caa14a39aab4.js": "/break-o-clock/precache-manifest.614ca49d4a5085f69153caa14a39aab4.js",
+    "precache-manifest.529a1def2bbf165b7d05c37ba441b5fa.js": "/break-o-clock/precache-manifest.529a1def2bbf165b7d05c37ba441b5fa.js",
     "service-worker.js": "/break-o-clock/service-worker.js",
     "static/css/main.452f81f3.chunk.css.map": "/break-o-clock/static/css/main.452f81f3.chunk.css.map",
     "static/media/db_anim.gif": "/break-o-clock/static/media/db_anim.5c818283.gif",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.0bedbb68.js",
     "static/js/2.b2800d89.chunk.js",
     "static/css/main.452f81f3.chunk.css",
-    "static/js/main.d373f4c2.chunk.js"
+    "static/js/main.4a040711.chunk.js"
   ]
 }
